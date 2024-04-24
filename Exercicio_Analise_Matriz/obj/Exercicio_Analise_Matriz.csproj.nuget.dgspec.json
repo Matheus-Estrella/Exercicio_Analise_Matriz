@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matheus\\Desktop\\Aulas - Exercícios\\2ª Semana\\Exercicio_Analise_Matriz\\Exercicio_Analise_Matriz\\Exercicio_Analise_Matriz.csproj": {}
+    "C:\\Users\\Matheus\\Exercicios_Estagio\\Exercicio_Analise_Matriz\\Exercicio_Analise_Matriz\\Exercicio_Analise_Matriz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matheus\\Desktop\\Aulas - Exercícios\\2ª Semana\\Exercicio_Analise_Matriz\\Exercicio_Analise_Matriz\\Exercicio_Analise_Matriz.csproj": {
+    "C:\\Users\\Matheus\\Exercicios_Estagio\\Exercicio_Analise_Matriz\\Exercicio_Analise_Matriz\\Exercicio_Analise_Matriz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\Aulas - Exercícios\\2ª Semana\\Exercicio_Analise_Matriz\\Exercicio_Analise_Matriz\\Exercicio_Analise_Matriz.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus\\Exercicios_Estagio\\Exercicio_Analise_Matriz\\Exercicio_Analise_Matriz\\Exercicio_Analise_Matriz.csproj",
         "projectName": "Exercicio_Analise_Matriz",
-        "projectPath": "C:\\Users\\Matheus\\Desktop\\Aulas - Exercícios\\2ª Semana\\Exercicio_Analise_Matriz\\Exercicio_Analise_Matriz\\Exercicio_Analise_Matriz.csproj",
+        "projectPath": "C:\\Users\\Matheus\\Exercicios_Estagio\\Exercicio_Analise_Matriz\\Exercicio_Analise_Matriz\\Exercicio_Analise_Matriz.csproj",
         "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matheus\\Desktop\\Aulas - Exercícios\\2ª Semana\\Exercicio_Analise_Matriz\\Exercicio_Analise_Matriz\\obj\\",
+        "outputPath": "C:\\Users\\Matheus\\Exercicios_Estagio\\Exercicio_Analise_Matriz\\Exercicio_Analise_Matriz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",

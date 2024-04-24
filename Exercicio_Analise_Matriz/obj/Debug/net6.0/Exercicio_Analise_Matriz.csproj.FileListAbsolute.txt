@@ -12,3 +12,18 @@ C:\Users\Matheus\Desktop\Aulas - Exercícios\2ª Semana\Exercicio_Analise_Matriz
 C:\Users\Matheus\Desktop\Aulas - Exercícios\2ª Semana\Exercicio_Analise_Matriz\Exercicio_Analise_Matriz\obj\Debug\net6.0\Exercicio_Analise_Matriz.pdb
 C:\Users\Matheus\Desktop\Aulas - Exercícios\2ª Semana\Exercicio_Analise_Matriz\Exercicio_Analise_Matriz\obj\Debug\net6.0\Exercicio_Analise_Matriz.genruntimeconfig.cache
 C:\Users\Matheus\Desktop\Aulas - Exercícios\2ª Semana\Exercicio_Analise_Matriz\Exercicio_Analise_Matriz\obj\Debug\net6.0\ref\Exercicio_Analise_Matriz.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Analise_Matriz\Exercicio_Analise_Matriz\bin\Debug\net6.0\Exercicio_Analise_Matriz.exe
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Analise_Matriz\Exercicio_Analise_Matriz\bin\Debug\net6.0\Exercicio_Analise_Matriz.deps.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Analise_Matriz\Exercicio_Analise_Matriz\bin\Debug\net6.0\Exercicio_Analise_Matriz.runtimeconfig.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Analise_Matriz\Exercicio_Analise_Matriz\bin\Debug\net6.0\Exercicio_Analise_Matriz.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Analise_Matriz\Exercicio_Analise_Matriz\bin\Debug\net6.0\Exercicio_Analise_Matriz.pdb
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Analise_Matriz\Exercicio_Analise_Matriz\obj\Debug\net6.0\Exercicio_Analise_Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Analise_Matriz\Exercicio_Analise_Matriz\obj\Debug\net6.0\Exercicio_Analise_Matriz.AssemblyInfoInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Analise_Matriz\Exercicio_Analise_Matriz\obj\Debug\net6.0\Exercicio_Analise_Matriz.AssemblyInfo.cs
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Analise_Matriz\Exercicio_Analise_Matriz\obj\Debug\net6.0\Exercicio_Analise_Matriz.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Analise_Matriz\Exercicio_Analise_Matriz\obj\Debug\net6.0\Exercicio_Analise_Matriz.sourcelink.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Analise_Matriz\Exercicio_Analise_Matriz\obj\Debug\net6.0\Exercicio_Analise_Matriz.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Analise_Matriz\Exercicio_Analise_Matriz\obj\Debug\net6.0\refint\Exercicio_Analise_Matriz.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Analise_Matriz\Exercicio_Analise_Matriz\obj\Debug\net6.0\Exercicio_Analise_Matriz.pdb
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Analise_Matriz\Exercicio_Analise_Matriz\obj\Debug\net6.0\Exercicio_Analise_Matriz.genruntimeconfig.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Analise_Matriz\Exercicio_Analise_Matriz\obj\Debug\net6.0\ref\Exercicio_Analise_Matriz.dll

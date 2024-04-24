@@ -43,19 +43,19 @@ for (lin = 0; lin < size; lin++)
 }
 Console.WriteLine();
 
-Console.WriteLine("\nImprimindo Soma Linha: ");
+Console.Write("\nImprimindo Soma Linha: ");
 for (lin = 0; lin < size; lin++)
 {
     Console.Write($"{soma_linhas[lin]} ");
 }
 Console.WriteLine();
 
-Console.WriteLine("\nImprimindo Soma Colunas: ");
+Console.Write("\nImprimindo Soma Colunas: ");
 for (lin = 0; lin < size; lin++)
 {
     Console.Write($"{soma_colunas[lin]} ");
 }
 Console.WriteLine();
 
-Console.WriteLine($"\nImprimindo Soma da DIagonal Principal: {diag_pri} \n\n");
-Console.WriteLine($"\nImprimindo Soma da DIagonal Secundária: {diag_sec} \n\n");
+Console.WriteLine($"\nImprimindo Soma da Diagonal Principal: {diag_pri}");
+Console.WriteLine($"\nImprimindo Soma da Diagonal Secundária: {diag_sec} \n");
